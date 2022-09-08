@@ -1,5 +1,7 @@
 
 ## Ocelot API Gateway Project <br></br>
+![This is an image](https://static.wixstatic.com/media/0fcaa4_67ba44b7cbb8447da66efaf372d8c526~mv2.png/v1/fill/w_925,h_334,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/0fcaa4_67ba44b7cbb8447da66efaf372d8c526~mv2.png)
+<br></br>
 In this project, we sent a request to 2 different API projects from a different project using API Gateway and got the answers.<br></br>
 By sending a request to our Gateway project, we can get both the answers to the API requests in the BarAPI project and the answers to the API requests in the RestaurantAPI project from the APIGateway project.
 <br></br>
